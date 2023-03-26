@@ -1,6 +1,6 @@
 # Publisher Indexing API
 
-For more information visit: [https://pubindexapi.com/](https://pubindexapi.com/)
+For more information visit: [https://www.pubindexapi.com/](https://pubindexapi.com/)
 
 - **App Dashboard**: https://app.pubindexapi.com/
 
